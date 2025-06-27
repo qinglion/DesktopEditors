@@ -15,4 +15,4 @@
 	url = https://github.com/qinglion/dictionaries.git
 [submodule "web-apps"]
 	path = web-apps
-	url = https://github.com/qinglion/web-apps-pro.git
+	url = https://github.com/qinglion/web-apps.git
